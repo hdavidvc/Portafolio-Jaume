@@ -10,7 +10,7 @@
 ¿Te gustaría mostrar crear tu portafolio profesional y conseguir el trabajo de tus sueños? Aquí encontrarás la manera correcta de hacerlo.
 
 
-Puedes verlo aquí: <link_para_ver>
+Puedes verlo aquí: <https://hdavidvc.github.io/Portafolio-Jaume/>
 
 
 ## 📌 Stack
