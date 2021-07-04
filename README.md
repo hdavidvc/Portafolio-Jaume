@@ -13,7 +13,7 @@ Puedes verlo aquí: <https://hdavidvc.github.io/Portafolio-Jaume/>
 
 ## 🌟 Autor
 
-* **Hector David Cabrera**  - [@hdavidvc](https://github.com/<username>)
+* **Hector David Cabrera**  - [hdavidvc](https://github.com/<username>)
 
 > Puedes encontrar más proyectos en
 [LeonidasEsteban.com](https://leonidasesteban.com/proyectos/todos)
